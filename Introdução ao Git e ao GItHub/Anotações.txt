@@ -1,1 +1,11 @@
-O Git Bash é um terminal estendido para otimizar o uso go Git
+O Git Bash é um terminal estendido para otimizar o uso do Git.
+Alguns comandos importantes são
+git init
+git add <nome do arquivo> ou . para adicionar todos os arquivos q mudaram
+git clone
+git commit -m "A mudança feita nesse commit"
+git push
+git pull
+Ctrl + L para limpar o terminal
+Ctrl + Ins para copiar
+Shit + Ins para colar
